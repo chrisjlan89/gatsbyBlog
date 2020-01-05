@@ -12,7 +12,7 @@ import Archive from "./archive"
 import Header from "./header"
 import "./layout.css"
 import styled from "styled-components"
-import Footer from "./Footer"
+import Footer from "./footer"
 import Img from "gatsby-image"
 import { Spring } from "react-spring/renderprops"
 
