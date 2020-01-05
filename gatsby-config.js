@@ -60,6 +60,6 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `gatsy-plugin-netlify`,
+    `gatsby-plugin-netlify`,
   ],
 }
