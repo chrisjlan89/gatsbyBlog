@@ -49,6 +49,13 @@ module.exports = {
         name: "posts",
       },
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `${__dirname}/src/team`,
+        name: "posts",
+      },
+    },
 
     {
       resolve: "gatsby-source-filesystem",
