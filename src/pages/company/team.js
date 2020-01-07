@@ -27,7 +27,7 @@ const Team = () => (
         mi Austin bicycle rights Portland lomo retro letterpress irony scenester
         normcore narwhal farm-to-table disrupt asymmetrical seitan trust fund
         bespoke flannel ethical gentrify gluten-free chambray pug American
-        Apparel sustainable fixie DIY wolf plaid Echo Park kale chips fanny pack{" "}
+        Apparel sustainable fixie DIY wolf plaid Echo Park kale chips fanny pack
       </p>
     </div>
   </Layout>
