@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Tasty Treats Blog`,
+        short_name: `Tasty`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
@@ -49,6 +49,7 @@ module.exports = {
         name: "posts",
       },
     },
+
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -60,6 +61,7 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-netlify`,
   ],
 }
